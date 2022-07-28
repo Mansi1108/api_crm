@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "melissa",
+      "empresa": "Freelance",
+      "email": "mansillamelissa@gmail.com",
+      "telefono": "56988597",
+      "notas": "aiuda",
+      "id": 1
+    },
+    {
+      "nombre": "karen ACTUALIZADO",
+      "empresa": "olas",
+      "email": "jamansilla@correo.url.edu.gt",
+      "telefono": "55108015",
+      "notas": "asdasd",
+      "id": 3
+    },
+    {
+      "nombre": "Diego",
+      "empresa": "URKL",
+      "email": "diego@gmai.com",
+      "telefono": "5854736674",
+      "notas": "No nos habla UnU",
+      "id": 4
+    }
+  ]
+}
